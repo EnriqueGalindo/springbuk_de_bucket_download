@@ -7,7 +7,7 @@ Bucket Download is a python script to download an aws s3 bucket to expedite gett
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install springbuk_de_bucket_download
+pip install de_bucket_download 
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Only Those with acces to the springbuk aws s3 will be able to use this, and this
 function to download the incoming folder of any specified bucket.
 
 ```bash
-$ dt
+$ python -m dt
 What is the bucket name?
 user input here (example: name_mi_1)
 Input directory for download (blank for here)

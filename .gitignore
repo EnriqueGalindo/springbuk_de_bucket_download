@@ -1,2 +1,4 @@
 setup.py
 *.DS_Store
+dist
+springbuk_de_bucket_download.egg-info
